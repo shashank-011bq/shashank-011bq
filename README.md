@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/011bq_official" target="blank"><img src="https://img.shields.io/twitter/follow/011bq_official?logo=twitter&style=for-the-badge" alt="011bq_official" /></a> </p>
 
-- 🔭 I’m currently working on [PoweredByAI](https://poweredbyai.app/)
+- 🔭 I’m currently working on [PoweredByAI](https://poweredbyai.app/?ref=github-shashank-011bq)
 
 - 🌱 I’m currently learning **Angular and Firebase**
 
-- 👯 I’m looking to fund [JS2TS](https://js2ts.com/)
+- 👯 I’m looking to fund [JS2TS](https://js2ts.com/?ref=github-shashank-011bq)
 
-- 🤝 I’m also building my Agency [011BQ](https://www.011bq.com/)
+- 🤝 I’m also building my Agency [011BQ](https://www.011bq.com/?ref=github-shashank-011bq)
 
-- 👨‍💻 All of my projects are available at [https://www.011bq.com/portfolio/](https://www.011bq.com/portfolio/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://www.011bq.com/portfolio/?ref=github-shashank-011bq)
 
 - 💬 Ask me about **ReactJS , Laravel , DevOps**
 
