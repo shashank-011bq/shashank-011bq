@@ -47,7 +47,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashank-011bq&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank-011bq&theme=github_dark" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-011bq&theme=github_dark" alt="stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-011bq&theme=github_dark" alt="most used languages" />
+</p>
+
+<p align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-011bq&theme=github_dark" alt="repos per language" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashank-011bq&theme=github_dark&utc_offset=5.5" alt="productive time" />
 </p>
 
 <p align="center">
