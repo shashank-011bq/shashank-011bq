@@ -46,9 +46,16 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashank-011bq&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-011bq&theme=react" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-011bq&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
