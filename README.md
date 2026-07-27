@@ -51,16 +51,6 @@
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-011bq&theme=github_dark" alt="stats" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-011bq&theme=github_dark" alt="most used languages" />
-</p>
-
-<p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-011bq&theme=github_dark" alt="repos per language" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashank-011bq&theme=github_dark&utc_offset=5.5" alt="productive time" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-011bq&theme=react" alt="streak" />
 </p>
 
